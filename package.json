@@ -1,0 +1,34 @@
+{
+  "name": "jpload",
+  "version": "0.0.0",
+  "description": "big file upload plugin",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "dependencies": {
+    "grunt": "~0.4.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test-jploud"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/janryWang/jpload"
+  },
+  "keywords": [
+    "file",
+    "upload",
+    "jquery",
+    "angular",
+    "bootstrap"
+  ],
+  "author": "janryWang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/janryWang/jpload/issues"
+  },
+  "homepage": "https://github.com/janryWang/jpload"
+}

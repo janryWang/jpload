@@ -1,0 +1,24 @@
+{
+  "name": "jpload",
+  "version": "0.0.0",
+  "authors": [
+    "janryWang <janrykk@gmail.com>"
+  ],
+  "description": "big file upload jquery plugin and angular module",
+  "main": "index.coffee",
+  "keywords": [
+    "jquery",
+    "angular",
+    "file",
+    "upload"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
