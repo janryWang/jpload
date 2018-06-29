@@ -1,6 +1,8 @@
 jpload
 ======
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/janryWang/jpload.svg)](https://greenkeeper.io/)
+
 jpload
 
 
